@@ -1,0 +1,16 @@
+# Генерация и LoRA (load_lora_weights требует PEFT backend)
+diffusers>=0.25.0
+transformers>=4.34.0
+peft>=0.6.0
+accelerate>=0.25.0
+torch>=2.0.0
+safetensors>=0.4.0
+
+# Изображения и метрики
+Pillow>=10.0.0
+numpy>=1.24.0
+opencv-python-headless>=4.8.0
+
+# LoRA (обучение на своих фото)
+torchvision>=0.15.0
+tqdm>=4.65.0
