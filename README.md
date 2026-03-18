@@ -6,7 +6,7 @@
 
 [Посмотреть отчет в Jupyter Notebook](./checkpoint.ipynb)
 
-[Посмотреть отчет в формате PDF](./lab4_generation.pdf)
+[Посмотреть отчет в формате PDF](./lab5-face-gen.pdf)
 
 ---
 
